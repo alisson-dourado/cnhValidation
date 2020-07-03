@@ -2,6 +2,9 @@
 
 public class ValidatorCNH(){
 
+  /**
+  * Baseado no código disponível em: https://gist.github.com/felipecwb/f32f70bf05bdf1ec5663
+  **/
   public static function validate($cnh) {
 
         $chart1 = $cnh[0];
