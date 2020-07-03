@@ -1,8 +1,8 @@
 <?php
 
-public class Validation(){
+public class ValidatorCNH(){
 
-  public static function validarCnh($cnh) {
+  public static function validate($cnh) {
 
         $chart1 = $cnh[0];
 
