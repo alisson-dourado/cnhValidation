@@ -1,3 +1,5 @@
+<?php
+
 public class Validation(){
 
   public static function validarCnh($cnh) {
@@ -29,5 +31,5 @@ public class Validation(){
 
         return ('' . $vl1 . $vl2) === substr($cnh, -2);
     }
-
 }
+
