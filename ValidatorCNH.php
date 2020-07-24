@@ -1,6 +1,6 @@
 <?php
 
-public class ValidatorCNH(){
+class ValidatorCNH{
 
   /**
   * Baseado no código disponível em: https://gist.github.com/felipecwb/f32f70bf05bdf1ec5663
